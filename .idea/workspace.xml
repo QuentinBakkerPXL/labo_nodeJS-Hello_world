@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1033fc63-bc9b-4959-885d-3f252b657b6d" name="Changes" comment="oefeing 1">
-      <change afterPath="$PROJECT_DIR$/JavaScriptOef/oefening02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptOef/oefening02.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptOef/oefening03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScriptOef/oefening03.js" afterDir="false" />
+    <list default="true" id="1033fc63-bc9b-4959-885d-3f252b657b6d" name="Changes" comment="oefeing 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScriptOef/oefening03.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptOef/oefening03.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScriptOef/oefening03.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptOef/oefening03.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,7 @@
       <workItem from="1695201077778" duration="752000" />
       <workItem from="1695205885146" duration="1780000" />
       <workItem from="1695219429604" duration="8000" />
-      <workItem from="1695219628787" duration="1652000" />
+      <workItem from="1695219628787" duration="4109000" />
     </task>
     <task id="LOCAL-00001" summary="oefeing 1">
       <created>1695219731796</created>
@@ -71,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695219750278</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="oefeing 2">
+      <created>1695225807822</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695225807822</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +95,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="oefeing 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="oefeing 1" />
+    <MESSAGE value="oefeing 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="oefeing 2" />
   </component>
 </project>
